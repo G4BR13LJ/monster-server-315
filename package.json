@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "npm run test",
-    "start": "nodemon index.js",
-    "start-server": "nodemon server.js"
+    "start": "node index.js",
+    "start-server": "node server.js"
   },
   "author": "Gabriel Jorand",
   "license": "ISC",
